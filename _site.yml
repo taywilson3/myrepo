@@ -1,0 +1,8 @@
+name: "Taylor Wilson"
+output_dir: "."
+navbar:
+  title: "Taylor Wilson"
+  left:
+    - text: "Home"
+      href: index.html
+    
